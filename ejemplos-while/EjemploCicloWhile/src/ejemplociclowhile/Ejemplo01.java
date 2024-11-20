@@ -29,6 +29,7 @@ public class Ejemplo01 {
         System.out.printf("%d\n", 11);
         System.out.printf("%d\n", 12);
         System.out.printf("%d\n", 13);
+        
+ 
     }
-    
 }
