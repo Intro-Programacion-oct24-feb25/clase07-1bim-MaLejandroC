@@ -30,9 +30,9 @@ public class Ejemplo06 {
         System.out.println("Ingrese las notas de los "
                 + "estudiantes de su materia");
         // true 
-        // while (bandera) {
+        // while (bandera) { // es lo mismo  //while(bandera==true){
         while(bandera==true){
-            System.out.println("Ingrese calificación");
+            System.out.println("Ingrese calificación")  ;
             calificacion = entrada.nextDouble();
 
             if (calificacion > 20) {
