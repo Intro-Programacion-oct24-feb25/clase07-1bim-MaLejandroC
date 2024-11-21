@@ -32,7 +32,7 @@ public class Ejemplo101 {
         limite_tabla = entrada.nextInt();
         
         if (limite_tabla<=0){
-            limite_tabla = 12;
+            limite_tabla = 12;  
         }
         /*if (limite_tabla > 0) {
             limite_tabla = limite_tabla + 0;
